@@ -547,11 +547,11 @@ end)
 ------ LIBRARY
 local repo = 'https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/'
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
-local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/NovazUwU/SharkHub/main/Theme'))()
+local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/zqaondc/aq91nkln9mjkln1lkdmlas/main/theme?token=GHSAT0AAAAAACE3ZDZURETPILNZAKIOZVQIZFK77CA'))()
 local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
-    Title = 'Shark Hub v2 PREMIUM // By ImperorLegend // MAP 1',
+    Title = 'Shark Hub v2 PREMIUM // Cracked by STYWRM#6670 // MAP 1',
     Center = true,
     AutoShow = true,
 })
@@ -582,8 +582,8 @@ local Sharky1 = Tabs.Teleports:AddRightGroupbox('            [SERVERS]')
 local Shark2 = Tabs.Misc:AddRightGroupbox('       [Auto Collect Lily]')
 local Shark3 = Tabs.Misc:AddRightGroupbox('       [Some Stuffs]')
 
-LeftGroupBox:AddButton("Cracked By Novaz | gg/EEzVUN35R", function()
-    setclipboard("https://discord.gg/EEzVUN35R") 
+LeftGroupBox:AddButton("Cracked By STYWRM#6670", function()
+    print("Cracked By STYWRM#6670") 
 end)
 
 getgenv().Method = "Sword"
